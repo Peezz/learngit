@@ -1,5 +1,10 @@
 Git is a distributed version control system.
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-creating a new branch is quick AND simple.
+Creating a new branch is quick AND simple.
+5555
+6666
+7777
+8888
+9999
